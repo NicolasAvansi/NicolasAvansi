@@ -6,7 +6,7 @@
 </h3>
 <p align="center">
 Atualmente sou estudante do primeiro período de Ciência da Computação na UFSC<br>
-  Trainee na <a href="https://www.instagram.com/ejpixel/"> @ejpixel</a>
+  Desenvolvedor na <a href="https://www.instagram.com/ejpixel/"> @ejpixel</a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasAvansi&show_icons=true&theme=midnight-purple)
